@@ -1,0 +1,2 @@
+# BingDictApp
+MAC BingDict
